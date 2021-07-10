@@ -1,0 +1,1 @@
+pyinstaller.exe --onefile --icon=myicon.ico bdayscript.py
