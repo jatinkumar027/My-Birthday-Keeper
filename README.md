@@ -1,7 +1,7 @@
 
 # My Birthday Keeper
 
-Interesting Python Project to save the Birthdays and never forget it in the long run.
+Interesting Python Project to save the Birthdays and never forget them in the long run.
 Just run the program and,
 
 - Add
