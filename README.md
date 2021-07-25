@@ -22,6 +22,8 @@ Python, SqliteDB
 
 This project can be used by any individual.
 
+## Screenshot
+![Screenshot](https://github.com/jatinkumar027/My-Birthday-Keeper/blob/main/Screenshot.png?raw=true)
   
 ## Badges
 
